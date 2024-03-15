@@ -7,3 +7,4 @@ asgiref==3.7.2
 telebot==0.0.5
 translate==3.6.1
 python-telegram-bot==13.11
+gunicorn==19.9.0
